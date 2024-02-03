@@ -6,6 +6,10 @@
   z-index: 10000;
 }
 
+.me {
+  width: 50px;
+}
+
 .header__inner {
   display: flex;
   align-items: center;
